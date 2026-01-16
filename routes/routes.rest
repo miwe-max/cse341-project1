@@ -10,10 +10,10 @@ GET https://localhost:8080/contacts/66faa47a621d03d1b1b756ce
 
 // PRODUCTION
 ### Home Page
-GET https://project1-esjo.onrender.com
+GET https://cse341-project1-k1om.onrender.com
 
 ### Get All Contacts
-GET https://project1-esjo.onrender.com/contacts
+GET https://cse341-project1-k1om.onrender.com/contacts
 
 ### Get Single Contact
-GET https://project1-esjo.onrender.com/contacts/66faa47a621d03d1b1b756ce
+GET https://cse341-project1-k1om.onrender.com/contacts/66faa47a621d03d1b1b756ce
