@@ -1,0 +1,19 @@
+// TEST
+### Home Page
+GET https://localhost:8080
+
+### Get All Contacts
+GET https://localhost:8080/contacts
+
+### Get Single Contact
+GET https://localhost:8080/contacts/66faa47a621d03d1b1b756ce
+
+// PRODUCTION
+### Home Page
+GET https://project1-esjo.onrender.com
+
+### Get All Contacts
+GET https://project1-esjo.onrender.com/contacts
+
+### Get Single Contact
+GET https://project1-esjo.onrender.com/contacts/66faa47a621d03d1b1b756ce
