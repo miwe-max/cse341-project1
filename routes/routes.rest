@@ -1,12 +1,12 @@
 // TEST
 ### Home Page
-GET https://localhost:8080
+GET http://localhost:8080
 
 ### Get All Contacts
-GET https://localhost:8080/contacts
+GET http://localhost:8080/contacts
 
 ### Get Single Contact
-GET https://localhost:8080/contacts/66faa47a621d03d1b1b756ce
+GET https://localhost:8080/contacts/696a64decc5d9b21c40ef943
 
 // PRODUCTION
 ### Home Page
@@ -16,4 +16,4 @@ GET https://cse341-project1-k1om.onrender.com
 GET https://cse341-project1-k1om.onrender.com/contacts
 
 ### Get Single Contact
-GET https://cse341-project1-k1om.onrender.com/contacts/66faa47a621d03d1b1b756ce
+GET https://cse341-project1-k1om.onrender.com/contacts/696a64decc5d9b21c40ef943

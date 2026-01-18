@@ -5,11 +5,15 @@
     "description": "A simple CRUD API for managing contacts",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
-  "basePath": "/",
-  "schemes": [
-    "http",
-    "https"
+  "servers": [
+    {
+      "url": "http://localhost:3000",
+      "description": "Local development server"
+    },
+    {
+      "url": "https://cse341-project1-k1om.onrender.com",
+      "description": "Production server (Render)"
+    }
   ],
   "paths": {
     "/": {
